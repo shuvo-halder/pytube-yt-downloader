@@ -1,4 +1,4 @@
-# Python YouTube Video Downloader
+# YouTube Video Downloader
 Pytube Overview and Installation.
 Pytube is a small, dependency-free Python module for accessing videos from the internet.
 
@@ -17,11 +17,11 @@ $ git clone https://github.com/shuvo-halder/pytube-yt-downloader.git
 ```
 Go to your git clone or download folder then
 ```bash
-$ python3 main.py 
+$ python3 main.py
 ```
 ```bash
 ~ Enter the YouTube video URL:
 ```
 
 Now Enjoy...
-#### Fork this repo
+#### Fork this repo and start this repository
